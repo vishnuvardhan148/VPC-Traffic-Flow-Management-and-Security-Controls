@@ -54,16 +54,14 @@ Detailed walkthrough available in [vpc-security-guide.pdf](vpc-security-guide.pd
 
 ## Visual Guide
 
-![Security Architecture](images/architecture-diagram.png)  
-*Sample architecture showing security layers*
+![Security Architecture](images/architecture.png)  
 
 ## About the Author
 
 **Vishnu Vardhan Gurram**  
 Cloud Security Enthusiast | NextWork Student  
 
-🔗 [NextWork Profile](https://nextwork.org)  
-💻 [GitHub Profile](your-github-url)  
+💻 [GitHub Profile](https://github.com/vishnuvardhan148)  
 
 ---
 
